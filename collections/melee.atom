@@ -1,0 +1,1198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dreamdiam.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dreamdiam.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dreamdiam.ca/collections/melee.atom"/>
+  <title>DREAM DIAMONDS LTD.</title>
+  <updated>2020-12-17T12:12:36-05:00</updated>
+  <author>
+    <name>DREAM DIAMONDS LTD.</name>
+  </author>
+  <entry>
+    <id>https://dreamdiam.ca/products/4617021915194</id>
+    <published>2020-12-17T12:12:36-05:00</published>
+    <updated>2020-12-17T12:12:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/copy-of-light-pink-melee-si1"/>
+    <title>Light Pink Melee SI1</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/IMG_9065_aa94f8df-0d24-4c55-804f-81144ffc183a.jpg?v=1608225137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            18.50 - 128.50
+            <a href="https://dreamdiam.ca/products/copy-of-light-pink-melee-si1">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Calibrated Light Pink Melee SI1</h2>
+<h2>Limited quantity available.</h2>
+<h2>
+<span style="color: #ff2a00;">PLEASE CHECK FOR THE AVAILABILITY</span> <a href="mailto:jp@dreamdiam.com?Subject=Grey%20melee%20request" target="_top">Send a request.</a>
+</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>cm</s:tag>
+    <s:tag>Cut_Brilliant</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>lpm</s:tag>
+    <s:tag>pink</s:tag>
+    <s:tag>pink-melee</s:tag>
+    <s:tag>pinkish</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>1.2-1.3mm / Piece</title>
+      <s:price currency="USD">18.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>1.6-1.7mm / Piece</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>1.8-1.9mm / Piece</title>
+      <s:price currency="USD">58.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2mm / Piece</title>
+      <s:price currency="USD">68.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2.1-2.2mm / Piece</title>
+      <s:price currency="USD">68.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2.3-2.4mm / Piece</title>
+      <s:price currency="USD">78.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2.5mm / Piece</title>
+      <s:price currency="USD">98.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2.6-2.7mm / Piece</title>
+      <s:price currency="USD">118.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4617021915194</id>
+      <title>2.8-2.9mm / Piece</title>
+      <s:price currency="USD">128.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamdiam.ca/products/4320716128314</id>
+    <published>2019-11-11T14:11:41-05:00</published>
+    <updated>2019-11-11T14:11:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/champagne-melee-si3-i1"/>
+    <title>Champagne Melee SI3 - I1</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/4_bdf8a1b4-5715-4946-aa08-a5d2f6e3187d.jpg?v=1581716616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            1.75 - 149.00
+            <a href="https://dreamdiam.ca/products/champagne-melee-si3-i1">(27 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Calibrated Champagne Melee SI3 - I1</h2>
+<p>Approximate quantities for 1ct:</p>
+<table style="width: 35.759246880570416%;">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">200pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1.1-1.2mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">148pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1.3mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">106pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1.5mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">67pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1.7mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">50pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">1.8mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">40pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">2mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">29pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">2.5mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">17pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 36.92203282828283%; height: 22px;">3mm</td>
+<td style="width: 36.07796717171717%; height: 22px;">10pc</td>
+</tr>
+<tr style="height: 19.5px;">
+<td style="width: 36.92203282828283%; height: 19.5px;">3.5mm</td>
+<td style="width: 36.07796717171717%; height: 19.5px;">6pc</td>
+</tr>
+</tbody>
+</table>
+<h2>Need a size that is not listed? <a href="mailto:jp@dreamdiam.com?Subject=Grey%20melee%20request" target="_top">Send a request.</a>
+</h2>
+<h2>New Pricing for orders 1ct and up. <span style="color: #ff2a00;">PLEASE CHECK FOR THE AVAILABILITY.</span>
+</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>Category_Champagne</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>cm</s:tag>
+    <s:tag>Cut_Brilliant</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>0.8mm / Piece</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>600b4ee10be3d</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.1-1.2mm / Piece</title>
+      <s:price currency="USD">2.38</s:price>
+      <s:sku>600b4ee1d9087</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.1-1.2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ee2cf163</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.4mm / Piece</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>600b4ee39ce23</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.4mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ee46ac01</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.6mm / Piece</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>600b4ee56092b</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.6mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ee62a4f4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.7mm / Piece</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>600b4ee70bffb</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.7mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ee7ce7d2</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.8mm / Piece</title>
+      <s:price currency="USD">8.75</s:price>
+      <s:sku>600b4ee8986bc</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.8mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ee9822d2</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.9-2mm / Piece</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku>600b4eea637c6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>1.9-2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eeb2fb54</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.1-2.2mm / Piece</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku>600b4eea637c6</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.1-2.2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eeb2fb54</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.3-2.4mm / Piece</title>
+      <s:price currency="USD">31.14</s:price>
+      <s:sku>600b4eec012dd</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.3-2.4mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eeb2fb54</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.5mm / Piece</title>
+      <s:price currency="USD">31.14</s:price>
+      <s:sku>600b4eec012dd</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.5mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eecba590</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>3-3.1mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4eeda6877</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>3-3.1mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4ef3e9911</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>3.5mm / Piece</title>
+      <s:price currency="USD">88.23</s:price>
+      <s:sku>600b4ef50079a</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>3.5mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4efab88b3</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.6-2.7mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eecba590</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.6-2.7mm / Piece</title>
+      <s:price currency="USD">31.14</s:price>
+      <s:sku>600b4eec012dd</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.8mm / Piece</title>
+      <s:price currency="USD">31.14</s:price>
+      <s:sku>600b4eec012dd</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/4320716128314</id>
+      <title>2.8mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku>600b4eecba590</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamdiam.ca/products/3480766906391</id>
+    <published>2019-04-12T16:34:47-04:00</published>
+    <updated>2019-04-12T16:34:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/salt-and-pepper-rosecut-melee"/>
+    <title>Salt and Pepper Rosecut Melee</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/01-3.jpg?v=1571961693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            17.50 - 195.00
+            <a href="https://dreamdiam.ca/products/salt-and-pepper-rosecut-melee">(10 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Calibrated Salt and Pepper Melee</h3>
+<p>There will be some fluctuation in height of the stones and carat weight as a result.</p>
+<p>Approximate quantity for 1ct:</p>
+<table height="129" style="width: 219px;">
+<tbody>
+<tr>
+<td style="width: 99.609375px;">2.5mm</td>
+<td style="width: 109.390625px;">14pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;">3mm</td>
+<td style="width: 109.390625px;">7pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;">3.5mm</td>
+<td style="width: 109.390625px;">5pc</td>
+</tr>
+</tbody>
+</table>
+<h2>Need a size that is not listed? <a href="mailto:jp@dreamdiam.com?Subject=Salt%20and%20Peper%20Rosecut%20Melee" target="_top">Send a request.</a>
+</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>Category_Salt and Pepper</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>Cut_Rosecut</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>sprm</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>2.5mm / Piece / Ice/Grey</title>
+      <s:price currency="USD">17.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>2.5mm / Carat / Ice/Grey</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.1mm / Piece / Salt and Pepper/Black</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SP-ML-49</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.mm / Piece / Ice/Grey</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku>SP-ML-17</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.1mm / Carat / Salt and Pepper/Black</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku>SP-ML-49</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3mm / Carat / Ice/Grey</title>
+      <s:price currency="USD">185.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.5mm / Piece / Salt and Pepper/Black</title>
+      <s:price currency="USD">52.50</s:price>
+      <s:sku>SP-RC-5</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.5mm / Piece / Ice/Grey</title>
+      <s:price currency="USD">52.50</s:price>
+      <s:sku>IC-RC-3</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.5mm / Carat / Salt and Pepper/Black</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku>SP-RC-5</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480766906391</id>
+      <title>3.5mm / Carat / Ice/Grey</title>
+      <s:price currency="USD">195.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamdiam.ca/products/3480671911959</id>
+    <published>2019-04-12T16:08:07-04:00</published>
+    <updated>2019-04-12T16:08:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/white-rosecut-melee"/>
+    <title>White Rosecut Melee</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/APC_2474.jpg?v=1571961693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            11.32 - 670.00
+            <a href="https://dreamdiam.ca/products/white-rosecut-melee">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Calibrated White Rosecut Melee</h3>
+<p>Clarity: VS/SI1</p>
+<p>Color: F/G/H</p>
+<p>There will be some fluctuation in height of the stones and carat weight as a result.</p>
+<p>Approximate quantity for 1ct:</p>
+<table height="129" style="width: 219px;">
+<tbody>
+<tr>
+<td style="width: 99.609375px;">2mm</td>
+<td style="width: 109.390625px;">50pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;">2.5mm</td>
+<td style="width: 109.390625px;">33pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;">3mm</td>
+<td style="width: 109.390625px;">17pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;">3.5mm</td>
+<td style="width: 109.390625px;">11pc</td>
+</tr>
+<tr>
+<td style="width: 99.609375px;"><br></td>
+<td style="width: 109.390625px;"><br></td>
+</tr>
+</tbody>
+</table>
+<h2>Need a size that is not listed? <a href="mailto:jp@dreamdiam.com?Subject=White%20Rosecut%20Melee" target="_top">Send a request.</a>
+</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>Category_White</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>Cut_Rosecut</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:tag>wrm</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.5mm / Piece</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>RR-ML-45</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.6mm / Piece</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>RR-ML-39</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.6mm / Carat</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>RR-ML-39</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.7mm / Piece</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>RR-ML-38</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.7mm / Carat</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>RR-ML-38</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>1.8mm / Piece</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>RR-ML-37</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2mm / Piece</title>
+      <s:price currency="USD">11.32</s:price>
+      <s:sku>RR-ML-36</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2mm / Carat</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.2-2.3mm / Piece</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>RR-ML-48</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.6mm / Piece</title>
+      <s:price currency="USD">43.26</s:price>
+      <s:sku>RR-ML-51</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.8mm / Piece</title>
+      <s:price currency="USD">43.26</s:price>
+      <s:sku>RR-ML-42</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.9mm / Piece</title>
+      <s:price currency="USD">43.26</s:price>
+      <s:sku>RR-ML-41</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>3.1mm / Piece</title>
+      <s:price currency="USD">70.47</s:price>
+      <s:sku>RR-ML-50</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>3.1mm / Carat</title>
+      <s:price currency="USD">618.00</s:price>
+      <s:sku>RR-ML-30</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>3.5mm / Piece</title>
+      <s:price currency="USD">70.47</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>3.5mm / Carat</title>
+      <s:price currency="USD">670.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>3.2mm / Piece</title>
+      <s:price currency="USD">70.47</s:price>
+      <s:sku>RR-ML-49</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.4mm / Piece</title>
+      <s:price currency="USD">18.48</s:price>
+      <s:sku>RR-ML-52</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/3480671911959</id>
+      <title>2.4mm / Carat</title>
+      <s:price currency="USD">528.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamdiam.ca/products/546959196193</id>
+    <published>2018-03-02T20:27:59-05:00</published>
+    <updated>2018-03-02T20:27:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/black-melee"/>
+    <title>Black Melee</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/9.jpg?v=1571961260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            1.50 - 149.00
+            <a href="https://dreamdiam.ca/products/black-melee">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Calibrated Black Melee</h2>
+<p>Approximate quantities for 1ct:</p>
+<table style="width: 32.469919786096256%;">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 35.86631944444444%; height: 22px;">1.2mm</td>
+<td style="width: 29.133680555555557%; height: 22px;">150pc</td>
+</tr>
+<tr style="height: 23.5px;">
+<td style="width: 35.86631944444444%; height: 23.5px;">1.3mm</td>
+<td style="width: 29.133680555555557%; height: 23.5px;">100pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 35.86631944444444%; height: 22px;">1.5mm</td>
+<td style="width: 29.133680555555557%; height: 22px;">67pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 35.86631944444444%; height: 22px;">1.7-1.8mm</td>
+<td style="width: 29.133680555555557%; height: 22px;">39pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 35.86631944444444%; height: 22px;"> 3mm</td>
+<td style="width: 29.133680555555557%; height: 22px;">9pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 35.86631944444444%; height: 22px;">3.5mm</td>
+<td style="width: 29.133680555555557%; height: 22px;">5pc</td>
+</tr>
+</tbody>
+</table>
+<h2>Need a size that is not listed? <a href="mailto:hello@dreamdiam.ca?Subject=Black%20melee%20request" target="_top">Send a request.</a>
+</h2>
+<h2>For orders 5ct and up <a href="mailto:hello@dreamdiam.ca?Subject=Black%20melee%20request" target="_top">contact us</a> for special pricing.</h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>bm</s:tag>
+    <s:tag>Category_Black</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>Cut_Brilliant</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.2-1.3mm / Piece</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.2-1.3mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.5mm / Piece</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.5mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.6mm / Piece</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.6mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.7-1.8mm / Piece</title>
+      <s:price currency="USD">7.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.7-1.8mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>1.9mm / Piece</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2mm / Piece</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2.2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2.5mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2.7mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>2.8mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3mm / Piece</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3.2mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3.3mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3.4mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3.5mm / Piece</title>
+      <s:price currency="USD">63.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/546959196193</id>
+      <title>3.5mm / Carat</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dreamdiam.ca/products/523894226977</id>
+    <published>2018-03-02T20:27:59-05:00</published>
+    <updated>2018-03-02T20:27:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://dreamdiam.ca/products/grey-melee"/>
+    <title>Grey/Salt and Pepper Melee</title>
+    <s:type>Melee</s:type>
+    <s:vendor>DREAM DIAMONDS LTD.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2524/6826/products/fc1b16194fa5f57eeb4b70622a3b724f_9464dd6d-533f-4936-9852-a06a85bc3f01.jpg?v=1571961208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DREAM DIAMONDS LTD.<br>
+        <strong>Type: </strong>Melee<br>
+        <strong>Price: </strong>
+            1.75 - 230.00
+            <a href="https://dreamdiam.ca/products/grey-melee">(21 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Calibrated Grey/Salt and Pepper Melee</h2>
+<p>Approximate quantities for 1ct:</p>
+<table height="253" style="width: 196px;">
+<tbody>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">1mm</td>
+<td style="width: 91.5972px; height: 22px;">200pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">1.2mm</td>
+<td style="width: 91.5972px; height: 22px;">148pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">1.3mm</td>
+<td style="width: 91.5972px; height: 22px;">106pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">1.6mm</td>
+<td style="width: 91.5972px; height: 22px;">67pc </td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">2.2-2.3mm</td>
+<td style="width: 91.5972px; height: 22px;">28pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">2.4-2.8mm</td>
+<td style="width: 91.5972px; height: 22px;">16pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">3.1-3.4mm</td>
+<td style="width: 91.5972px; height: 22px;">10pc</td>
+</tr>
+<tr style="height: 22px;">
+<td style="width: 92.7083px; height: 22px;">
+<div><meta charset="utf-8"></div>
+3.5-3.7mm</td>
+<td style="width: 91.5972px; height: 22px;">6pc</td>
+</tr>
+<tr style="height: 19.5px;">
+<td style="width: 92.7083px; height: 19.5px;">3.8mm</td>
+<td style="width: 91.5972px; height: 19.5px;">4pc</td>
+</tr>
+</tbody>
+</table>
+<h2>Limited quantities available!!! <a href="mailto:jp@dreamdiam.com?Subject=Grey%20melee%20request" target="_top">Send a request.</a>
+</h2>
+<h2><span style="color: #ff2a00;">PLEASE CHECK FOR THE AVAILABILITY.</span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black-melee</s:tag>
+    <s:tag>Category_Grey</s:tag>
+    <s:tag>Category_Melee</s:tag>
+    <s:tag>Category_Salt and Pepper</s:tag>
+    <s:tag>champagne-melee</s:tag>
+    <s:tag>Cut_Brilliant</s:tag>
+    <s:tag>gm</s:tag>
+    <s:tag>grey-melee</s:tag>
+    <s:tag>salt-and-pepper-rosecut-melee</s:tag>
+    <s:tag>Shapes_Round</s:tag>
+    <s:tag>white-melee</s:tag>
+    <s:tag>white-rosecut-melee</s:tag>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>1.0mm / Piece</title>
+      <s:price currency="USD">1.75</s:price>
+      <s:sku>600b4ac2dfab7</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>1.2mm / Piece</title>
+      <s:price currency="USD">2.38</s:price>
+      <s:sku>600b4ac49af51</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>1.3mm / Piece</title>
+      <s:price currency="USD">3.32</s:price>
+      <s:sku>600b4ac79a4d8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>1.3mm / Carat</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>600b4ac88490a</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>1.6mm / Piece</title>
+      <s:price currency="USD">5.25</s:price>
+      <s:sku>600b4acda6026</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.2-2.3mm / Piece</title>
+      <s:price currency="USD">12.25</s:price>
+      <s:sku>600b4ad01edf4</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.2-2.3mm / Carat</title>
+      <s:price currency="USD">198.00</s:price>
+      <s:sku>600b4acf4dfd4</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.4mm / Piece</title>
+      <s:price currency="USD">41.90</s:price>
+      <s:sku>600b4ad0ef205</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.4mm / Carat</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>600b4ad1cecfe</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.7-2.8mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4aca3bb3c</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>2.7-2.8mm / Carat</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>600b4acb0db6b</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.1mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad385d3e</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.1mm / Carat</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>600b4ad2ac430</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.2mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad45f98d</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.3mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad52b8e8</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.4mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad60c19c</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.5mm / Piece</title>
+      <s:price currency="USD">88.23</s:price>
+      <s:sku>600b4acbef22c</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.5mm / Carat</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>600b4accd88ff</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.6mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad6cf0f9</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.7mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad7b4434</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dreamdiam.ca/products/523894226977</id>
+      <title>3.8mm / Piece</title>
+      <s:price currency="USD">51.90</s:price>
+      <s:sku>600b4ad89cd2b</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
